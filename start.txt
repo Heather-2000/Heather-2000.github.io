@@ -1,3 +1,0 @@
-hello ! 
-welcome to my git blog : )
-this is public git blog. everyone could see.
